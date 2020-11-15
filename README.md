@@ -1,2 +1,2 @@
-# C_learning
+# c_learning
 I'm learning C programming language
